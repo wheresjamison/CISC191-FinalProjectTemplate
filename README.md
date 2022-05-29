@@ -15,3 +15,5 @@ Shared classes between client and server modules.
 The server application that handles multiple clients.
 ## Client Module
 The client application used to connect to the server.
+
+last notes about project in comments of this
